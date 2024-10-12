@@ -3,7 +3,7 @@
 This is a Dockerized Flask application that serves a machine learning model. The application provides a simple web interface where users can input data for prediction, and the model returns the results based on the trained machine learning model.
 
 ## Project Structure
-
+```bash
 ML_Flask_Docker_App/
 │
 ├── app/
@@ -17,7 +17,7 @@ ML_Flask_Docker_App/
 ├── Dockerfile          # Dockerfile for building the Docker image
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
-
+```
 ## Prerequisites
 
 - Docker installed on your machine.
