@@ -44,7 +44,8 @@ docker run -p 5053:5053 ml-flask-docker-app
 
 
 4.	Access the application:
-	•	Open your browser and navigate to http://localhost:5053.
+   
+Open your browser and navigate to http://localhost:5053.
 
 ### Running the Application Locally
 
